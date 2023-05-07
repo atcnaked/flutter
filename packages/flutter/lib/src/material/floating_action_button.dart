@@ -94,7 +94,6 @@ enum _FloatingActionButtonType {
 class FloatingActionButton extends StatelessWidget {
   /// Creates a circular floating action button.
   ///
-  /// The [mini] and [clipBehavior] arguments must not be null. Additionally,
   /// [elevation], [highlightElevation], and [disabledElevation] (if specified)
   /// must be non-negative.
   const FloatingActionButton({
